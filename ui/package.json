@@ -54,5 +54,11 @@
     "last 4 ChromeAndroid versions",
     "last 4 FirefoxAndroid versions",
     "last 4 iOS versions"
-  ]
+  ],
+  "dependencies": {
+    "acorn": "^8.7.1",
+    "acorn-dynamic-import": "^4.0.0",
+    "vue": "^3.2.35",
+    "vue-router": "^4.0.15"
+  }
 }
